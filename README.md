@@ -23,10 +23,9 @@ Este projeto consiste em uma análise exploratória de dados fictícios de venda
 - Evolução do valor médio de venda por ano
 - Gráficos de barras, dispersão e outros insights visuais
 
-## ▶️ Como executar
-
-Clone o repositório:
-
+## ▶️ Como executar:
 ```bash
 git clone https://github.com/XiloMssj/analise_explorartoria_vendas_veiculos.git
 cd analise_explorartoria_vendas_veiculos
+pip install -r requirements.txt
+jupyter notebook main.ipynb
